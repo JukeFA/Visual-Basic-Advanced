@@ -1,0 +1,11 @@
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\bin\Debug\Text from a File.exe.config
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\bin\Debug\Text from a File.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\bin\Debug\Text from a File.pdb
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\bin\Debug\Text from a File.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\Text from a File.vbproj.GenerateResource.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\Text from a File.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\Text from a File.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\Text from a File.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-06\Text from a File\Text from a File\obj\Debug\Text from a File.pdb

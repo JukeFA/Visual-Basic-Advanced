@@ -1,0 +1,12 @@
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\bin\Debug\Working With Files.exe.config
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\bin\Debug\Working With Files.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\bin\Debug\Working With Files.pdb
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\bin\Debug\Working With Files.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.vbprojResolveAssemblyReference.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working_With_Files.Form1.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working_With_Files.Resources.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.vbproj.GenerateResource.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Working With Files\obj\Debug\Working With Files.pdb

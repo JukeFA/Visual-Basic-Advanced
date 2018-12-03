@@ -1,0 +1,26 @@
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\bin\Debug\Database3.accdb
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\bin\Debug\DataBase.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\bin\Debug\DataBase.pdb
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\bin\Debug\DataBase.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.vbprojResolveAssemblyReference.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.Resources.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.vbproj.GenerateResource.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\DataBase\obj\Debug\DataBase.pdb
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\bin\Debug\Database3.accdb
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\bin\Debug\DataBase.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.vbprojResolveAssemblyReference.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.Resources.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.vbproj.GenerateResource.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-11-20\DataBase\DataBase\obj\Debug\DataBase.pdb

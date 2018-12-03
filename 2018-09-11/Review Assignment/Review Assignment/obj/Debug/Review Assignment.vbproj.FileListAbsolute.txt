@@ -1,0 +1,12 @@
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review_Assignment.Form1.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review_Assignment.Resources.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.vbproj.GenerateResource.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\bin\Debug\Review Assignment.exe.config
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\bin\Debug\Review Assignment.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\bin\Debug\Review Assignment.pdb
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\bin\Debug\Review Assignment.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Review Assignment\obj\Debug\Review Assignment.pdb

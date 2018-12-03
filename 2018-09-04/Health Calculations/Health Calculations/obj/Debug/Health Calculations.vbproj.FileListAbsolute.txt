@@ -1,0 +1,12 @@
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.vbprojAssemblyReference.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health_Calculations.Form1.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health_Calculations.Resources.resources
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.vbproj.GenerateResource.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\bin\Debug\Health Calculations.exe.config
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\bin\Debug\Health Calculations.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\bin\Debug\Health Calculations.pdb
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\bin\Debug\Health Calculations.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.exe
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.xml
+C:\Users\lucky\OneDrive\IT College\CSC 239 - Advanced Visual Basic Programming\2018-09-04\Health Calculations\Health Calculations\obj\Debug\Health Calculations.pdb

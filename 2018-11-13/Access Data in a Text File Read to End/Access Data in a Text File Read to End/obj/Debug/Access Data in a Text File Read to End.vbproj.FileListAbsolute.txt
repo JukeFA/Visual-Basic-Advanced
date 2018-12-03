@@ -1,0 +1,12 @@
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\bin\Debug\Access Data in a Text File Read to End.exe.config
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\bin\Debug\Access Data in a Text File Read to End.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\bin\Debug\Access Data in a Text File Read to End.pdb
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\bin\Debug\Access Data in a Text File Read to End.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.vbprojResolveAssemblyReference.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access_Data_in_a_Text_File_Read_to_End.Form1.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access_Data_in_a_Text_File_Read_to_End.Resources.resources
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.vbproj.GenerateResource.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.vbproj.CoreCompileInputs.cache
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.exe
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.xml
+C:\Users\lucky\AppData\Local\Temporary Projects\Access Data in a Text File Read to End\obj\Debug\Access Data in a Text File Read to End.pdb
